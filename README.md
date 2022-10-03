@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Gollum
+- 👀 I’m interested in HTML, CSS, JavaScript, Java and Phython
+- 🌱 I’m currently learning JavaScript and Java in school
+- 📫 How to reach me: on Twitter @Gollum_yt
