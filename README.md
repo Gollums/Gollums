@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning JavaScript for myself and Java in school
 - 📫 How to reach me: on Twitter @Gollum_yt
 
-<embed src="https://www.forleo.github.io">
+<embed src="https://www.forleo.github.io" style="width:500px; height: 300px;">
