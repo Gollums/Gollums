@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript for myself and Java in school
 - 📫 How to reach me: on Twitter @Gollum_yt
 
--check out my new website forleo.github.io
+check out my new website https://forleo.github.io
 
 ![](https://raw.githubusercontent.com/forleo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/forleo/github-stats/master/generated/overview.svg#gh-light-mode-only)
