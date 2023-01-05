@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leo
 - 👀 I’m interested in HTML, CSS, JavaScript, Java and Phython
 - 🌱 I’m currently learning JavaScript for myself and Java in school
-- 📫 How to reach me: on Twitter @Gollum_yt
+- 📫 How to reach me: Use the mail me link on my website.
 
 check out my new website https://forleo.github.io
 
